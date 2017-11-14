@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\TestApp\platforms\android\build\intermediates\exploded-aar\com.microsoft.azure.mobile\mobile-center-crashes\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="135ae3b2a700bbab559648b1843b9b4eacab549a">
+        <dex dex="D:\TestApp\platforms\android\build\intermediates\pre-dexed\debug\com.microsoft.azure.mobile-mobile-center-crashes-0.13.0_0989cd2aa6ec291a0efc242585ff3bb030e43548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestApp\platforms\android\build\intermediates\exploded-aar\com.microsoft.azure.mobile\mobile-center\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="229a3aeb57595688af715874dbfc2daaa2d6d0a8">
+        <dex dex="D:\TestApp\platforms\android\build\intermediates\pre-dexed\debug\com.microsoft.azure.mobile-mobile-center-0.13.0_14869afcbc5ccc8ceced40a581deaa4981a410ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestApp\platforms\android\build\intermediates\exploded-aar\com.microsoft.azure.mobile\mobile-center-analytics\0.13.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="042f2a2aac8af759151b60ddd2a552eddd44df7f">
+        <dex dex="D:\TestApp\platforms\android\build\intermediates\pre-dexed\debug\com.microsoft.azure.mobile-mobile-center-analytics-0.13.0_073a582bf07f79e54715b2175da439658c14e9ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\TestApp\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.3.0\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
+        <dex dex="D:\TestApp\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.3.0-debug_a2b4f18c2c6be9acbc8ddf9b6e777e2c9b5fc0ba.jar" />
+    </item>
+
+</items>
